@@ -1,0 +1,1 @@
+console.log('Projeto TypeScript executável criado com sucesso');
